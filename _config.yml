@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 150: Stochastic Processes"
 tagline: Course Overview
-description: Random walks, discrete time Markov chains, Poisson processes. Further topics such as: continuous time Markov chains, queueing theory, point processes, branching processes, renewal theory, stationary processes, Gaussian processes. 
+description: "Random walks, discrete time Markov chains, Poisson processes. Further topics such as: continuous time Markov chains, queueing theory, point processes, branching processes, renewal theory, stationary processes, Gaussian processes. "
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat150.berkeley.edu'
