@@ -27,6 +27,12 @@ UC Berkeley
 
 Random walks, discrete time Markov chains, Poisson processes. Further topics such as: continuous time Markov chains, queueing theory, point processes, branching processes, renewal theory, stationary processes, Gaussian processes. 
 
+## Logistics
+
+Three hours of Lecture per week for 15 weeks.
+
+Written final exam conducted during the scheduled final exam period.
+
 ## Prerequisites
 
 101 or 103A or 134. 
